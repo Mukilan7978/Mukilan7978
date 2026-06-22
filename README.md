@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukilan%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20Final%20Year%20CS%20Student&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukilan%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=62&descSize=16" width="100%"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+I'm+Mukilan+J+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Data+Analytics+%7C+Python+%2B+SQL;AI%2FML+Explorer+%7C+Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+I'm+Mukilan+J+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;CS+Student+%7C+SRM+University;AI%2FML+Explorer+%7C+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -51,14 +51,23 @@ Show Image
 Show Image
 Show Image
 Show Image
+Show Image
+
+Cloud & DevOps
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
 Databases
 
 Show Image
-
-Cloud & Tools
-
 Show Image
+
+Tools
+
 Show Image
 Show Image
 Show Image
