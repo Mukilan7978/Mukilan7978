@@ -15,20 +15,9 @@ javascriptconst mukilan = {
   location: "Chennai, Tamil Nadu, India",
   degree: "B.Tech Computer Science @ SRM University",
   email: "mukilan.pvt@gmail.com",
-
-  stack: [
-    "React.js", "Node.js", "Python",
-    "TypeScript", "PostgreSQL", "Tailwind CSS"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Advanced SQL & Power BI",
-    "Cloud Deployment (AWS)"
-  ],
-
+  stack: ["React.js", "Node.js", "Python", "TypeScript", "PostgreSQL", "Tailwind CSS"],
+  currentlyLearning: ["System Design", "Advanced SQL & Power BI", "Cloud Deployment (AWS)"],
   funFact: "Built a plant disease detector with ~90% accuracy using CNN!",
-
   motto: () => "Build things that matter. 🚀"
 };
 
@@ -138,40 +127,39 @@ Designed for scalable, real-time deployment supporting sustainable agriculture
 
 🚀 Featured Projects
 
-<div align="center">
-ProjectStackHighlights🏥 Smart Patient MonitoringReact.js, TypeScript, Tailwind CSS, SQLReal-time health dashboards, CRUD, secure access control, IoRT integration🌿 Plant Disease DetectionMATLAB, CNN, Grad-CAM, SHAP~90% accuracy, Explainable AI, scalable real-time detection🎓 Campus Management SystemReact, Node.js, PostgreSQL, JWT/OAuthFull-stack, role-based access, real-time dashboards for events, clubs & jobs👤 Customer Management SystemC, Arrays, QueueData structures-based CRM, efficient add/update/manage records
+ProjectStackHighlights🏥 Smart Patient MonitoringReact.js, TypeScript, Tailwind CSS, SQLReal-time health dashboards, CRUD, secure access control🌿 Plant Disease DetectionMATLAB, CNN, Grad-CAM, SHAP~90% accuracy, Explainable AI, real-time detection🎓 Campus Management SystemReact, Node.js, PostgreSQL, JWT/OAuthFull-stack, role-based access, real-time dashboards👤 Customer Management SystemC, Arrays, QueueData structures-based CRM, add/update/manage records
 
-</div>
 
 🎯 Achievements & Certifications
 
-<div align="center">
 🏅AchievementDetails📜DBMS Course — Fundamentals & AdvancedScaler☁️Machine Learning FoundationsAWS Academy🤖AI-ML Virtual InternshipEdu Skills (AICTE)🎮Unity Essentials PathwayUnity Learn🧩Data Structures & AlgorithmsUdemy
 
-</div>
 
 🎓 Education
 
-<div align="center">
 DegreeInstitutionYearScoreB.Tech — Computer ScienceSRM University, Chennai2022 – 2026CGPA: 6.9Class 12 — PCMMahabharathi International School, Kallakurichi202269%Class 10Mahabharathi International School, Kallakurichi202059%
 
-</div>
 
 📚 Currently Learning
 
-🧱 System Design       → Scalability, Load Balancing, Microservices
-📊 Advanced SQL        → Window Functions, Query Optimization, Indexing
-☁️  Cloud Deployment   → AWS EC2, S3, Lambda, Deployment Pipelines
-🤖 Deep Learning       → Transfer Learning, Model Optimization
-📈 Data Analytics      → Power BI Dashboards, Python Data Viz
+🧱 System Design      →  Scalability, Load Balancing, Microservices
+📊 Advanced SQL       →  Window Functions, Query Optimization, Indexing
+☁️  Cloud Deployment  →  AWS EC2, S3, Lambda, Deployment Pipelines
+🤖 Deep Learning      →  Transfer Learning, Model Optimization
+📈 Data Analytics     →  Power BI Dashboards, Python Data Viz
 
 
 📬 Connect with Me
 
 <div align="center">
-Show Image
-Show Image
-Show Image
-
+<a href="https://www.linkedin.com/in/mukilan-j-a243752b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mukilan_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mukilan.pvt@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mukilan.pvt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Mukilan7978">
+  <img src="https://img.shields.io/badge/GitHub-Mukilan7978-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
