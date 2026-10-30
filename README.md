@@ -1,9 +1,9 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=MUKILAN%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Automotive%20Tech%20%E2%80%A2%20AI%2FML&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=MUKILAN%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Automotive%20%E2%80%A2%20AI%2FML&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=24C6DC&center=true&vCenter=true&width=900&height=60&lines=%24+whoami+%E2%86%92+Mukilan+J+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Cybersecurity+Enthusiast+%7C+Secure+by+Design+%F0%9F%9B%A1%EF%B8%8F;Automotive+Tech+Explorer+%7C+Connected+%26+Secure+Vehicles+%F0%9F%9A%97;AI%2FML+%7C+Deep+Learning+%7C+Explainable+AI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=24C6DC&center=true&vCenter=true&width=900&height=60&lines=%24+whoami+%E2%86%92+Mukilan+J+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Cybersecurity+Automotive+%7C+Secure+Connected+Vehicles+%F0%9F%9A%97%F0%9F%9B%A1%EF%B8%8F;AI%2FML+%7C+Deep+Learning+%7C+Explainable+AI" alt="Typing SVG"/>
 
 <br/>
 
@@ -30,7 +30,7 @@ const mukilan = {
   name: "Mukilan J",
   location: "Chennai, Tamil Nadu, India 🇮🇳",
   degree: "B.Tech Computer Science @ SRM University (2022 – 2026)",
-  roles: ["Full-Stack Developer", "Cybersecurity Enthusiast", "Automotive Tech Explorer", "AI/ML Explorer"],
+  roles: ["Full-Stack Developer", "Cybersecurity Automotive", "AI/ML"],
   stack: ["React", "Node.js", "TypeScript", "Python", "PostgreSQL", "Tailwind CSS"],
   focusAreas: ["Secure Web Apps", "Automotive Cybersecurity", "Embedded & Vehicle Networks", "Explainable AI"],
   currentlyLearning: ["System Design", "Advanced SQL & Power BI", "AWS Cloud", "Vehicle Network Security"],
@@ -176,40 +176,70 @@ const mukilan = {
 
 ## 🚀 &nbsp;Featured Projects
 
+<div align="center">
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [Smart Patient Monitoring](https://github.com/Mukilan7978)
-`React` `TypeScript` `Tailwind` `SQL`<br/>
-Real-time health dashboards, CRUD, secure access control.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌿 [Plant Disease Detection](https://github.com/Mukilan7978)
-`MATLAB` `CNN` `Grad-CAM` `SHAP`<br/>
-~90% accuracy, Explainable AI, real-time detection.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 [Campus Management System](https://github.com/Mukilan7978)
-`React` `Node.js` `PostgreSQL` `JWT/OAuth`<br/>
-Full-stack, role-based access, real-time dashboards.
-
-</td>
-<td width="50%" valign="top">
-
-#### 👤 [Customer Management System](https://github.com/Mukilan7978)
-`C` `Arrays` `Queue`<br/>
-Data-structures-based CRM to add, update and manage records.
-
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th align="center">#</th>
+      <th align="left">Project</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">What It Does</th>
+      <th align="center">Domain</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>01</b></td>
+      <td><b>🏥 <a href="https://github.com/Mukilan7978">Smart Patient Monitoring</a></b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logo=mysql&logoColor=white"/>
+      </td>
+      <td>Real-time health dashboards, CRUD, secure role-based access control</td>
+      <td align="center"><img src="https://img.shields.io/badge/Full--Stack-24c6dc?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>02</b></td>
+      <td><b>🌿 <a href="https://github.com/Mukilan7978">Plant Disease Detection</a></b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grad--CAM-8A2BE2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SHAP-E91E63?style=flat-square"/>
+      </td>
+      <td>~90% accuracy leaf disease classifier with Explainable AI</td>
+      <td align="center"><img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>03</b></td>
+      <td><b>🎓 <a href="https://github.com/Mukilan7978">Campus Management System</a></b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT%2FOAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </td>
+      <td>Full-stack app with role-based access and real-time dashboards</td>
+      <td align="center"><img src="https://img.shields.io/badge/Full--Stack-24c6dc?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>04</b></td>
+      <td><b>👤 <a href="https://github.com/Mukilan7978">Customer Management System</a></b></td>
+      <td>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Arrays-302b63?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Queue-302b63?style=flat-square"/>
+      </td>
+      <td>Data-structures-based CRM to add, update and manage records</td>
+      <td align="center"><img src="https://img.shields.io/badge/DSA-ff4d6d?style=flat-square"/></td>
+    </tr>
+  </tbody>
 </table>
+
+</div>
 
 ---
 
@@ -229,7 +259,7 @@ Data-structures-based CRM to add, update and manage records.
 
 | Degree | Institution | Year | Score |
 |:--|:--|:-:|:-:|
-| 🎓 B.Tech — Computer Science | SRM University, Chennai | 2022 – 2026 | CGPA 6.9 |
+| 🎓 B.Tech — Computer Science | SRM University, Chennai | 2022 – 2026 | CGPA 7.0 |
 | 📘 Class 12 — PCM | Mahabharathi International School, Kallakurichi | 2022 | 69% |
 | 📗 Class 10 | Mahabharathi International School, Kallakurichi | 2020 | 59% |
 
